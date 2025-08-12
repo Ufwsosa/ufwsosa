@@ -9,8 +9,8 @@
 <br clear="both">
 
 <h3 align="left">
-- 🔭 I’m currently working on a Minecraft Anarchy server bot. <a href="https://github.com/Ufwsosa/xgovkit">xgovkit</a><br><br>
-- 🌱 I’m currently learning <a href="https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ">Rust</a><br><br>
+- 🔭 I’m currently working on a Minecraft Anarchy server bot <a href="https://github.com/Ufwsosa/xgovkit">xgovkit.</a><br><br>
+- 🌱 I’m currently learning <a href="https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ">Rust!</a><br><br>
 - 💬 Ask me about <strong>My discord bots in my amateur coding days.</strong><br><br>
 - 📫 How to reach me <strong>@ufwsosa via discord!</strong><br><br>
 - ⚡ Fun fact <strong>I like Drawing, Gaming, Listening to music and playing chess!.</strong>
