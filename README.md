@@ -30,11 +30,11 @@
 <tr>
 <td align="center" width="100%">
 
-**19, welder by day, been coding since i was 13.** started on pc around 10, got curious how games actually worked, and by 14 i was neck deep writing cheats for CS2, Rust, R6, FiveM — reversing clients, dumping offsets, bypassing anti-cheat, building ESP and aimbots from literal scratch with zero tutorials. just me, a debugger, and way too many 3am "why is this crashing" sessions.
+**19, weld during the day, been coding since 13.** started on pc around 10 just playing whatever, got curious how the games worked and that spiraled — by 14 i was writing cheats for cs2, rust, r6, fivem. no tutorials, no discord server holding my hand, just me and a debugger at 3am trying to figure out why my dll wouldn't inject.
 
-that's the actual origin story — not a bootcamp, not a CS degree, just breaking stuff in games until i understood why it broke. memory internals, drivers, engine internals, netcode, all of it came from cheat dev before i ever had a "real" title. turned that into full-stack by 16 and now i freelance full time at 19 — still living in `C++` and `Rust` most days, native windows stuff, reversing whatever isn't documented, throwing in web/AI when a project needs it.
+that's actually how i learned to code, not some bootcamp thing. reversing clients, dumping offsets, hooking, getting past anticheat, building esp and aimbots from nothing — all before i ever had a "real" dev job. somewhere around 16 that turned into fullstack and now i just freelance, 19 now. still mostly `C++`/`Rust`, native windows stuff, reversing whatever doesn't have docs, throw in web/ai when a project actually calls for it.
 
-when i'm not at a computer i'm either welding or playing baseball. no in-between, just extremes.
+when i'm not at a pc it's welding or baseball, pretty much nothing in between.
 
 </td>
 </tr>
