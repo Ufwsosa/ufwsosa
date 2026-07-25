@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:0B0B0B,100:050505&height=220&section=header&text=UFWSOSA&fontColor=F5F5F7&fontSize=64&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20Systems%20%2F%20Native%20%2F%20AI&descAlignY=62&descSize=17&descColor=8E8E93" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:0B0B0B,100:050505&height=220&section=header&text=UFWSOSA&fontColor=F5F5F7&fontSize=64&animation=fadeIn&fontAlignY=42&desc=Welder%20%2F%2F%20Freelance%20Coder&descAlignY=62&descSize=17&descColor=8E8E93" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5AC8FA,50:BF5AF2,100:FF375F&height=3" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1600&color=F5F5F7&center=true&vCenter=true&width=620&height=40&lines=native+software;reverse+engineering;windows+internals;desktop+applications;systems+programming;computer+vision;artificial+intelligence;performance+engineering;always+building+something" alt="rotating focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1600&color=F5F5F7&center=true&vCenter=true&width=620&height=40&lines=native+software;reverse+engineering;windows+internals;desktop+applications;systems+programming;computer+vision;artificial+intelligence;performance+engineering;code+when+i%27m+not+welding" alt="rotating focus" />
 
 <br/>
 
@@ -20,10 +20,6 @@
 
 <br/>
 
-<!-- =========================================================== -->
-<!-- ABOUT                                                        -->
-<!-- =========================================================== -->
-
 <div align="center">
 
 ### About
@@ -34,11 +30,11 @@
 <tr>
 <td align="center" width="100%">
 
-I'm a software engineer working close to the metal — native Windows applications, systems-level tooling, and the occasional deep dive into how a binary actually behaves once it's compiled. I spend most of my time in C++ and Rust, moving between application code, low-level Windows APIs, and reverse engineering when I need to understand something that isn't documented.
+Started gaming on PC around 10. Got into coding at 13 because I wanted to understand how the games I was playing actually worked under the hood. By 14 I was writing cheats — CS2, Rust, Rainbow Six Siege, FiveM — reversing clients, dumping offsets, bypassing anti-cheat, building ESP and aimbots from scratch. Nobody taught me any of it, I just kept breaking things until I understood why they worked.
 
-Alongside that, I build with modern web and AI tooling when a problem calls for it — computer vision experiments, small ML-driven tools, and the occasional interface that needs to feel as considered as the backend behind it. I care about software that's fast, predictable, and quiet about the complexity underneath.
+That's genuinely where I learned to code. Memory internals, driver work, engine internals, netcode — all of it came from cheat dev before I ever touched a "real" job. By 16 I'd turned that into full-stack development, doing backend, native apps, and web/design work on top of it. I'm 19 now, freelancing full time. Still mostly living in C++ and Rust — native Windows software, systems-level tooling, reverse engineering whenever something isn't documented and I need to figure out how it actually behaves. I also mess with web and AI stuff when a project calls for it — computer vision, small ML tools, whatever gets the job done.
 
-Most of what I build starts as a question about how something works, and ends as a tool I actually use.
+Outside of computers I play baseball and weld for work. Not a hobby-welder thing, I actually do it.
 
 </td>
 </tr>
@@ -49,10 +45,6 @@ Most of what I build starts as a question about how something works, and ends as
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
 
 <br/>
-
-<!-- =========================================================== -->
-<!-- BUILDING / FOCUS / WORKSPACE                                 -->
-<!-- =========================================================== -->
 
 <div align="center">
 
@@ -127,10 +119,6 @@ Most of what I build starts as a question about how something works, and ends as
 
 <br/>
 
-<!-- =========================================================== -->
-<!-- TECH STACK                                                    -->
-<!-- =========================================================== -->
-
 <div align="center">
 
 ### Tech Stack
@@ -188,6 +176,21 @@ Most of what I build starts as a question about how something works, and ends as
 <img src="https://img.shields.io/badge/Manual_Mapping-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
 <img src="https://img.shields.io/badge/Memory_Analysis-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
 <img src="https://img.shields.io/badge/Static_%2F_Dynamic_Analysis-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+
+<br/><br/>
+
+<sub>Game Security</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kernel_Mode_Drivers-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Anti_Cheat_Architecture-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/External_%2F_Internal_Cheats-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/ESP_%2F_Aimbot_Systems-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Game_Engine_Internals-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Netcode_%2F_Packet_Analysis-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Driver_Signature_Bypass-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Entity_%2F_Offset_Dumping-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
 
 <br/><br/>
 
@@ -251,10 +254,6 @@ Most of what I build starts as a question about how something works, and ends as
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
 
 <br/>
-
-<!-- =========================================================== -->
-<!-- FEATURED PROJECTS                                             -->
-<!-- =========================================================== -->
 
 <div align="center">
 
@@ -367,20 +366,13 @@ Most of what I build starts as a question about how something works, and ends as
 
 <br/>
 
-<!-- =========================================================== -->
-<!-- SPOTIFY                                                       -->
-<!-- =========================================================== -->
-
 <div align="center">
 
 ### Now Playing
 
 <br/>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31r23mjrue5rzmwjsrfhmgy3lhyu&cover_image=true&theme=default&show_offline=true&background_color=050505&interchange=false&bar_color=5AC8FA&bar_color_cover=true" width="380" />
-
-<br/>
-<sub>Live playback requires a one-time login at <a href="https://spotify-github-profile.vercel.app">spotify-github-profile.vercel.app</a> with this Spotify account to authorize the widget.</sub>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r23mjrue5rzmwjsrfhmgy3lhyu&cover_image=true&theme=default&show_offline=true&background_color=050505&interchange=false&bar_color=5AC8FA&bar_color_cover=true" width="380" />
 
 </div>
 
@@ -389,10 +381,6 @@ Most of what I build starts as a question about how something works, and ends as
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
 
 <br/>
-
-<!-- =========================================================== -->
-<!-- STATS                                                         -->
-<!-- =========================================================== -->
 
 <div align="center">
 
@@ -411,10 +399,6 @@ Most of what I build starts as a question about how something works, and ends as
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
 
 <br/>
-
-<!-- =========================================================== -->
-<!-- CONTACT                                                       -->
-<!-- =========================================================== -->
 
 <div align="center">
 
@@ -435,10 +419,6 @@ Most of what I build starts as a question about how something works, and ends as
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
 
 <br/>
-
-<!-- =========================================================== -->
-<!-- DOCK                                                          -->
-<!-- =========================================================== -->
 
 <div align="center">
 
