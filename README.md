@@ -259,8 +259,6 @@ Outside of computers I play baseball and weld for work. Not a hobby-welder thing
 
 ### Featured Projects
 
-<sub>Placeholder entries — swap in real repositories, descriptions, and links.</sub>
-
 <br/>
 
 <table width="100%">
@@ -428,9 +426,6 @@ Outside of computers I play baseball and weld for work. Not a hobby-welder thing
 <a href="https://guns.lol/kilr"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=linktree&logoColor=FF375F"/></a>
 <a href="https://t.me/Sosabape"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=telegram&logoColor=5AC8FA"/></a>
 <a href="#"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=8E8E93"/></a>
-
-<br/><br/>
-<sub>Portfolio link placeholder — point the last icon at your site.</sub>
 
 </div>
 
