@@ -1,187 +1,471 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05050a,40:0f0520,100:05050a&height=180&section=header&text=ufwsosa&fontColor=b89ee8&fontSize=60&animation=fadeIn&fontAlignY=68&stroke=1e0a3c&strokeWidth=3" width="100%"/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7048b0,50:5ac8fa,100:ff375f&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:0B0B0B,100:050505&height=220&section=header&text=UFWSOSA&fontColor=F5F5F7&fontSize=64&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20Systems%20%2F%20Native%20%2F%20AI&descAlignY=62&descSize=17&descColor=8E8E93" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5AC8FA,50:BF5AF2,100:FF375F&height=3" width="100%"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&pause=1400&color=5AC8FA&center=true&vCenter=true&width=480&lines=web+%2F+gui+%2F+ai+%2F+re;windows+internals+for+fun;always+building+something" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1600&color=F5F5F7&center=true&vCenter=true&width=620&height=40&lines=native+software;reverse+engineering;windows+internals;desktop+applications;systems+programming;computer+vision;artificial+intelligence;performance+engineering;always+building+something" alt="rotating focus" />
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=11&pause=3000&color=FF375F&center=true&vCenter=true&width=380&lines=now+%3A+reversing+something+i+shouldn't;status+%3A+online;mood+%3A+building" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&pause=3200&color=8E8E93&center=true&vCenter=true&width=460&height=24&lines=status+%3A+shipping;mode+%3A+deep+work;currently+%3A+heads+down" alt="status" />
 
 <br/><br/>
 
-<!-- ============ window frame, macOS traffic lights ============ -->
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
+
+<br/>
+
+<!-- =========================================================== -->
+<!-- ABOUT                                                        -->
+<!-- =========================================================== -->
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/%20-%20-FF5F57?style=flat-square" height="12"/> <img src="https://img.shields.io/badge/%20-%20-FEBC2E?style=flat-square" height="12"/> <img src="https://img.shields.io/badge/%20-%20-28C840?style=flat-square" height="12"/>
-&nbsp;&nbsp;**ufwsosa — zsh**
+### About
 
 </div>
 
+<table width="100%">
+<tr>
+<td align="center" width="100%">
+
+I'm a software engineer working close to the metal — native Windows applications, systems-level tooling, and the occasional deep dive into how a binary actually behaves once it's compiled. I spend most of my time in C++ and Rust, moving between application code, low-level Windows APIs, and reverse engineering when I need to understand something that isn't documented.
+
+Alongside that, I build with modern web and AI tooling when a problem calls for it — computer vision experiments, small ML-driven tools, and the occasional interface that needs to feel as considered as the backend behind it. I care about software that's fast, predictable, and quiet about the complexity underneath.
+
+Most of what I build starts as a question about how something works, and ends as a tool I actually use.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
+
+<br/>
+
+<!-- =========================================================== -->
+<!-- BUILDING / FOCUS / WORKSPACE                                 -->
+<!-- =========================================================== -->
+
 <div align="center">
 
-```
-─────────────────────────────────────────────
-$ whoami
-  ufwsosa
+### Right Now
 
-$ stack --list
-  c++ · c# · rust · c · lua · python · ts · asm
+<br/>
 
-$ focus --list
-  re · cheats · web · gui · ai
+<table>
+<tr>
+<td valign="top" width="33%">
 
-$ tools --list
-  ida pro · x64dbg · ghidra · imgui · winapi
-─────────────────────────────────────────────
-```
+<div align="center">
+
+**Currently Building**
 
 </div>
 
-<br/>
-
-<!-- ============ dock ============ -->
-<div align="center">
-  <a href="https://guns.lol/kilr"><img src="https://img.shields.io/badge/guns.lol%2Fkilr-05050a?style=for-the-badge&logoColor=7048B0" /></a>
-  &nbsp;
-  <a href="https://discord.gg/Jwr493CrMJ"><img src="https://img.shields.io/badge/discord-05050a?style=for-the-badge&logo=discord&logoColor=5AC8FA" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ufwsosa&style=for-the-badge&color=0f0520&label=views" />
-</div>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff375f,50:5ac8fa,100:7048b0&height=3" width="100%"/>
-
-<br/>
-
-<!-- ============ langs + tools ============ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=13&pause=5000&color=7048B0&center=true&vCenter=true&width=200&lines=stack" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,c,lua,python&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tauri,qt,pytorch,tensorflow&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![ASM](https://img.shields.io/badge/asm-05050a?style=flat-square&logoColor=5AC8FA)
-![ImGui](https://img.shields.io/badge/imgui-05050a?style=flat-square&logoColor=5AC8FA)
-![WinAPI](https://img.shields.io/badge/winapi-05050a?style=flat-square&logo=windows&logoColor=5AC8FA)
-![DirectX](https://img.shields.io/badge/directx-05050a?style=flat-square&logo=microsoft&logoColor=FF375F)
-![CUDA](https://img.shields.io/badge/cuda-05050a?style=flat-square&logo=nvidia&logoColor=76b900)
-
-</div>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7048b0,50:5ac8fa,100:ff375f&height=3" width="100%"/>
-
-<br/>
-
-<!-- ============ stats ============ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=13&pause=5000&color=5AC8FA&center=true&vCenter=true&width=200&lines=activity" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="155" src="https://streak-stats.demolab.com?user=ufwsosa&theme=dark&background=05050a&border=1e0a3c&stroke=1e0a3c&ring=5AC8FA&fire=FF375F&currStreakNum=e2d9f3&sideNums=b89ee8&currStreakLabel=7048b0&sideLabels=b89ee8&dates=3d2a5e" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufwsosa&layout=compact&bg_color=05050a&border_color=1e0a3c&title_color=5AC8FA&text_color=9070c8&hide_border=false" />
+
+- Native Windows software
+- Reverse engineering tooling
+- Computer vision experiments
+- Modern desktop UI
+- Performance tooling
+
+</td>
+<td valign="top" width="33%">
+
+<div align="center">
+
+**Current Focus**
+
+</div>
+
+&nbsp;
+
+- Windows internals
+- Rendering pipelines
+- DirectX
+- Applied AI
+- Computer vision
+- Reverse engineering
+- Performance optimization
+- Clean software architecture
+
+</td>
+<td valign="top" width="33%">
+
+<div align="center">
+
+**Workspace**
+
+</div>
+
+&nbsp;
+
+`OS` &nbsp;Windows 11
+`Editor` &nbsp;Visual Studio · VS Code
+`Terminal` &nbsp;PowerShell · zsh
+`Browser` &nbsp;Arc
+`Design` &nbsp;Figma
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
+
+<br/>
+
+<!-- =========================================================== -->
+<!-- TECH STACK                                                    -->
+<!-- =========================================================== -->
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ufwsosa&bg_color=05050a&color=5AC8FA&line=FF375F&point=7048b0&area=true&area_color=0f0520&hide_border=true" width="93%" />
-</div>
+
+### Tech Stack
+
+<br/>
+
+<sub>Languages</sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,rust,c,cs,python,ts,lua&theme=dark" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff375f,50:5ac8fa,100:7048b0&height=3" width="100%"/>
-
-<br/>
-
-<!-- ============ contribution snake — extra ============ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=13&pause=5000&color=FF375F&center=true&vCenter=true&width=260&lines=contribution+graph" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<!--
-  Animated RGB contribution snake. Requires a one-time GitHub Action in this repo:
-  create .github/workflows/snake.yml with the job below, then it auto-generates
-  and commits the svg on a schedule.
-
-  name: generate snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ufwsosa
-            outputs: |
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<img src="https://raw.githubusercontent.com/ufwsosa/ufwsosa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+<img src="https://img.shields.io/badge/x86_Assembly-0B0B0B?style=flat-square&labelColor=0B0B0B&color=0B0B0B&logoColor=5AC8FA"/> <img src="https://img.shields.io/badge/x64_Assembly-0B0B0B?style=flat-square&labelColor=0B0B0B&color=0B0B0B&logoColor=5AC8FA"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7048b0,50:5ac8fa,100:ff375f&height=3" width="100%"/>
+<sub>Desktop &amp; Graphics</sub>
 
 <br/>
 
-<!-- ============ trophies ============ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=13&pause=5000&color=7048B0&center=true&vCenter=true&width=200&lines=trophies" />
+<img src="https://skillicons.dev/icons?i=qt&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/Win32_API-0B0B0B?style=flat-square&logo=windows&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/COM-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/ImGui-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/Avalonia-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/WPF-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/Tauri-0B0B0B?style=flat-square&logo=tauri&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/DirectX_11-0B0B0B?style=flat-square&logo=microsoft&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/DirectX_12-0B0B0B?style=flat-square&logo=microsoft&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/OpenGL-0B0B0B?style=flat-square&logo=opengl&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/Vulkan-0B0B0B?style=flat-square&logo=vulkan&logoColor=BF5AF2"/>
+
+<br/><br/>
+
+<sub>Reverse Engineering</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/IDA_Pro-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/Ghidra-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/x64dbg-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/WinDbg-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/Binary_Ninja-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PE-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Pattern_Scanning-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Disassembly-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Decompilation-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/DLL_Injection-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Hooking-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Manual_Mapping-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Memory_Analysis-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Static_%2F_Dynamic_Analysis-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+
+<br/><br/>
+
+<sub>Systems</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Multithreading-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/Synchronization-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/IPC-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/Networking-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/Memory_Management-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/Kernel_APIs-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/Windows_APIs-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+<img src="https://img.shields.io/badge/File_Systems-0B0B0B?style=flat-square&color=181818&logoColor=BF5AF2"/>
+
+<br/><br/>
+
+<sub>Graphics</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Rendering-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Shaders-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/DirectX-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/OpenGL-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Vulkan-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+<img src="https://img.shields.io/badge/Math_Libraries-0B0B0B?style=flat-square&color=181818&logoColor=FF375F"/>
+
+<br/><br/>
+
+<sub>AI &amp; Computer Vision</sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CUDA-0B0B0B?style=flat-square&logo=nvidia&logoColor=76B900"/>
+<img src="https://img.shields.io/badge/ONNX_Runtime-0B0B0B?style=flat-square&logoColor=5AC8FA"/>
+<img src="https://img.shields.io/badge/LLMs-0B0B0B?style=flat-square&logoColor=BF5AF2"/>
+
+<br/><br/>
+
+<sub>Web</sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,electron&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/WebSockets-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
+
+<br/>
+
+<!-- =========================================================== -->
+<!-- FEATURED PROJECTS                                             -->
+<!-- =========================================================== -->
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ufwsosa&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA" width="88%" />
+
+### Featured Projects
+
+<sub>Placeholder entries — swap in real repositories, descriptions, and links.</sub>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">Overlay Render Engine</h4>
+
+<p align="center"><sub>A lightweight DirectX 11 / DirectX 12 overlay framework for real-time rendering on top of native Windows applications, built around a minimal, dependency-free core.</sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-active-5AC8FA?style=flat-square&labelColor=0B0B0B"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/DirectX-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Win32-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/Demo-050505?style=for-the-badge&logoColor=5AC8FA"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">Binary Pattern Toolkit</h4>
+
+<p align="center"><sub>A reverse engineering utility for signature scanning, module analysis, and automated pattern generation across PE binaries.</sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-active-BF5AF2?style=flat-square&labelColor=0B0B0B"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/x64-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/PE-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/Demo-050505?style=for-the-badge&logoColor=5AC8FA"/></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">Vision Tracker</h4>
+
+<p align="center"><sub>A real-time computer vision pipeline built on OpenCV and ONNX Runtime for object detection and tracking, tuned for low-latency inference.</sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-in_progress-FF375F?style=flat-square&labelColor=0B0B0B"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/OpenCV-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/CUDA-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/Demo-050505?style=for-the-badge&logoColor=5AC8FA"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">Shell — Desktop Companion</h4>
+
+<p align="center"><sub>A native Windows utility shell with a minimal glass-style interface, built for quick system inspection and workflow automation.</sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-active-5AC8FA?style=flat-square&labelColor=0B0B0B"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/WPF-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+<img src="https://img.shields.io/badge/Win32-0B0B0B?style=flat-square&color=181818&logoColor=8E8E93"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/Demo-050505?style=for-the-badge&logoColor=5AC8FA"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff375f,50:5ac8fa,100:7048b0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05050a,40:0f0520,100:05050a&height=100&section=footer&reversal=true" width="100%"/>
+<br/>
+
+<!-- =========================================================== -->
+<!-- SPOTIFY                                                       -->
+<!-- =========================================================== -->
+
+<div align="center">
+
+### Now Playing
+
+<br/>
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31r23mjrue5rzmwjsrfhmgy3lhyu&cover_image=true&theme=default&show_offline=true&background_color=050505&interchange=false&bar_color=5AC8FA&bar_color_cover=true" width="380" />
+
+<br/>
+<sub>Live playback requires a one-time login at <a href="https://spotify-github-profile.vercel.app">spotify-github-profile.vercel.app</a> with this Spotify account to authorize the widget.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
+
+<br/>
+
+<!-- =========================================================== -->
+<!-- STATS                                                         -->
+<!-- =========================================================== -->
+
+<div align="center">
+
+### Activity
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Ufwsosa&theme=dark&background=050505&border=181818&stroke=181818&ring=5AC8FA&fire=FF375F&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=5AC8FA&sideLabels=8E8E93&dates=8E8E93" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ufwsosa&show_icons=true&hide_title=true&hide_border=true&bg_color=050505&title_color=5AC8FA&icon_color=BF5AF2&text_color=F5F5F7&ring_color=181818" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
+
+<br/>
+
+<!-- =========================================================== -->
+<!-- CONTACT                                                       -->
+<!-- =========================================================== -->
+
+<div align="center">
+
+### Contact
+
+<br/>
+
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
+<a href="https://discord.gg/Jwr493CrMJ"><img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=5AC8FA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Spotify-050505?style=for-the-badge&logo=spotify&logoColor=BF5AF2"/></a>
+<a href="https://guns.lol/kilr"><img src="https://img.shields.io/badge/guns.lol-050505?style=for-the-badge&logoColor=FF375F"/></a>
+<a href="https://t.me/Sosabape"><img src="https://img.shields.io/badge/Telegram-050505?style=for-the-badge&logo=telegram&logoColor=5AC8FA"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
+
+<br/>
+
+<!-- =========================================================== -->
+<!-- DOCK                                                          -->
+<!-- =========================================================== -->
+
+<div align="center">
+
+<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
+<a href="https://discord.gg/Jwr493CrMJ"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=discord&logoColor=5AC8FA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=spotify&logoColor=BF5AF2"/></a>
+<a href="https://guns.lol/kilr"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=linktree&logoColor=FF375F"/></a>
+<a href="https://t.me/Sosabape"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=telegram&logoColor=5AC8FA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=8E8E93"/></a>
+
+<br/><br/>
+<sub>Portfolio link placeholder — point the last icon at your site.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5AC8FA,50:BF5AF2,100:FF375F&height=2" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<sub>Building software focused on performance, simplicity, and thoughtful design.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:0B0B0B,100:050505&height=100&section=footer&reversal=true" width="100%"/>
