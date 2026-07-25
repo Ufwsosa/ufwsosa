@@ -370,7 +370,7 @@ Outside of computers I play baseball and weld for work. Not a hobby-welder thing
 
 <br/>
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r23mjrue5rzmwjsrfhmgy3lhyu&cover_image=true&theme=default&show_offline=true&background_color=050505&interchange=false&bar_color=5AC8FA&bar_color_cover=true" width="380" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31r23mjrue5rzmwjsrfhmgy3lhyu" width="380" />
 
 </div>
 
