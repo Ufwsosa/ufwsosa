@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&pause=3200&color=8E8E93&center=true&vCenter=true&width=460&height=24&lines=status+%3A+shipping;mode+%3A+deep+work;currently+%3A+heads+down" alt="status" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&pause=3200&color=8E8E93&center=true&vCenter=true&width=460&height=24&lines=sql+injection+successful;root+access+granted;bypassing+anti-cheat...;status+%3A+online;segfault+%3A+ignored" alt="status" />
 
 <br/><br/>
 
@@ -30,11 +30,11 @@
 <tr>
 <td align="center" width="100%">
 
-Started gaming on PC around 10. Got into coding at 13 because I wanted to understand how the games I was playing actually worked under the hood. By 14 I was writing cheats — CS2, Rust, Rainbow Six Siege, FiveM — reversing clients, dumping offsets, bypassing anti-cheat, building ESP and aimbots from scratch. Nobody taught me any of it, I just kept breaking things until I understood why they worked.
+**19, welder by day, been coding since i was 13.** started on pc around 10, got curious how games actually worked, and by 14 i was neck deep writing cheats for CS2, Rust, R6, FiveM — reversing clients, dumping offsets, bypassing anti-cheat, building ESP and aimbots from literal scratch with zero tutorials. just me, a debugger, and way too many 3am "why is this crashing" sessions.
 
-That's genuinely where I learned to code. Memory internals, driver work, engine internals, netcode — all of it came from cheat dev before I ever touched a "real" job. By 16 I'd turned that into full-stack development, doing backend, native apps, and web/design work on top of it. I'm 19 now, freelancing full time. Still mostly living in C++ and Rust — native Windows software, systems-level tooling, reverse engineering whenever something isn't documented and I need to figure out how it actually behaves. I also mess with web and AI stuff when a project calls for it — computer vision, small ML tools, whatever gets the job done.
+that's the actual origin story — not a bootcamp, not a CS degree, just breaking stuff in games until i understood why it broke. memory internals, drivers, engine internals, netcode, all of it came from cheat dev before i ever had a "real" title. turned that into full-stack by 16 and now i freelance full time at 19 — still living in `C++` and `Rust` most days, native windows stuff, reversing whatever isn't documented, throwing in web/AI when a project needs it.
 
-Outside of computers I play baseball and weld for work. Not a hobby-welder thing, I actually do it.
+when i'm not at a computer i'm either welding or playing baseball. no in-between, just extremes.
 
 </td>
 </tr>
@@ -404,28 +404,9 @@ Outside of computers I play baseball and weld for work. Not a hobby-welder thing
 
 <br/>
 
-<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
 <a href="https://discord.gg/Jwr493CrMJ"><img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=5AC8FA"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Spotify-050505?style=for-the-badge&logo=spotify&logoColor=BF5AF2"/></a>
-<a href="https://guns.lol/kilr"><img src="https://img.shields.io/badge/guns.lol-050505?style=for-the-badge&logoColor=FF375F"/></a>
 <a href="https://t.me/Sosabape"><img src="https://img.shields.io/badge/Telegram-050505?style=for-the-badge&logo=telegram&logoColor=5AC8FA"/></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:181818&height=1" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Ufwsosa"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=github&logoColor=F5F5F7"/></a>
-<a href="https://discord.gg/Jwr493CrMJ"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=discord&logoColor=5AC8FA"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=spotify&logoColor=BF5AF2"/></a>
-<a href="https://guns.lol/kilr"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=linktree&logoColor=FF375F"/></a>
-<a href="https://t.me/Sosabape"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=telegram&logoColor=5AC8FA"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%20-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=8E8E93"/></a>
+<a href="https://guns.lol/kilr"><img src="https://img.shields.io/badge/guns.lol-050505?style=for-the-badge&logoColor=FF375F"/></a>
 
 </div>
 
